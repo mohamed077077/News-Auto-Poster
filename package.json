@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "canvas": "^3.2.0",
+    "googleapis": "^159.0.0",
+    "is-online": "^11.0.0",
+    "node-cron": "^4.2.1",
+    "playwright": "^1.57.0"
+  },
+  "name": "coding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
