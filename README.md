@@ -1,5 +1,6 @@
 # project structure
 
+```bash
 ├── Article
 │   ├── bloggerPublisher.js
 │   ├── Image
@@ -28,3 +29,4 @@
 ├── Main.js
 ├── package.json
 ├── package-lock.json
+```
