@@ -1,3 +1,33 @@
+# Project Overview
+
+This project is a Node.js-based automation tool that handles:
+- Scraping new articles from different sections
+- Processing and rewriting text
+- Generating and uploading images automatically
+- Publishing posts directly to Blogger
+- Managing recent posts to avoid duplicates
+____
+
+## 🚀 Getting Started
+
+### **1. Install Dependencies**
+```bash
+npm install
+```
+### 2. Configuration
+
+Make sure you have your Google API credentials in:
+
+```bash
+GoogleIntegration/TookenCreation/credentials.json
+GoogleIntegration/TookenCreation/token.json
+```
+
+### 3. Run the Project
+```bash
+node Main.js
+```
+____
 # project structure
 
 ```bash
